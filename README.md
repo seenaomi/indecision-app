@@ -1,5 +1,7 @@
 npm install
+
 npm install --save-dev babel-core
+
 npm install -g babel-cli
 
 2 terminals running:
