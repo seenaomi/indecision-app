@@ -1,11 +1,9 @@
-npm install
+# Indecision App
 
-npm install -g babel-cli
+npm install
 
 2 terminals running:
 
-babel src/app.js --out-file=public/scripts/app.js --presets=env,react --watch
+npm run serve
 
-live-server public
-
-localhost:8080
+npm run build
