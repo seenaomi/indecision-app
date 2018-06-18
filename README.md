@@ -4,8 +4,6 @@ npm install
 
 2 terminals running:
 
-npm run serve
-
-npm run build-babel
+npm run dev-server
 
 npm run build
